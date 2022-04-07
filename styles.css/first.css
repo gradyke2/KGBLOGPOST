@@ -1,0 +1,77 @@
+
+body{
+    background-color: black;
+}
+
+h2{
+    color: bisque;
+}
+
+p{
+    color: palevioletred;
+
+}
+
+
+footer{
+    display:flex;
+    padding: auto;
+    color: pink;
+
+}
+
+h3{
+    color: palevioletred;
+}
+
+
+.cardsection{
+    display: grid;
+    padding-left: 30%;
+    color:peachpuff;
+    width: 25%;
+}
+
+p{
+    color:pink;
+}
+
+
+ul{
+    color: palevioletred;
+    list-style: none;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: plum;
+}
+
+li{ display: grid;
+    padding: 10%;
+}
+
+img{
+    width: 95;
+    padding-left: 0%;
+    padding-bottom: 15%;
+}
+
+.avatar{
+    width: 45%;
+    padding: 10px;
+}
+
+.authorinfosection {
+    display: grid;
+    padding: 4px;
+}
+
+
+
+
+
+
+
+

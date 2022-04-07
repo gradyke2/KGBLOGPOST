@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Blog Homepage</title>
+        <link href= "styles.css/main.css" rel="stylesheet">
+    
+   </head> 
+    <body>
+
+        <nav class="HomepageNav"> 
+
+           <ul>
+               <li>
+                   <h2>
+                       <a href="https://www.mycrystals.com/meaning/amethyst-meaning-and-healing-properties"><em>link one</em></a>
+
+                   </h2>
+               </li>
+               <li>
+                <h2>
+                    <a href="
+                    https://rockparadise.com/blogs/news/citrine-success-stone"><em>link two</em></a>
+
+                </h2>
+            </li>
+            <li>
+                <h2>
+                    <a href="https://www.healingwithcrystals.net.au/rhodonite.html"><em>link three </em></a>
+
+                </h2>
+            </li>
+           </ul>
+     
+       </nav>
+
+       <div class="cardsection">
+           <div class="card">
+               <figure>
+                <img src="img/pexels-dids-2942855.jpg"> 
+
+               </figure>
+                <a href="htmls/blogpost.html"><button><b>Click here</b> for the post</button></a>
+                <h3><u>"This is the card section."</u></h3>
+            
+           </div>
+
+       </div>
+       <footer>
+           <p><em>"Copyright Page 2022"</em></p>
+       </footer>
+
+
+  
+    </body>
+</html>
